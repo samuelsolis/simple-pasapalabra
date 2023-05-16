@@ -6,53 +6,53 @@ const TIEMPO_DEL_JUEGO = 180;
 const bd_juego = [
   {
       id:'A',
-      pregunta:"Hacer ameno algo.",
-      respuesta:"amenizar"
+      pregunta:"Instrumento compuesto por un conjunto de varillas articuladas por un extremo y pegadas por el otro a una tela o un papel que se despliega con ellas en semicírculo.",
+      respuesta:"abanico"
   },
   {
     id:'B',
-    pregunta:"Ciudad donde, según la tradición cristiana, nació Jesucristo",
-    respuesta:"belen"
+    pregunta:"Bóvido salvaje, parecido al toro, con la parte anterior del cuerpo, hasta la cruz, muy abultada, cubierto de pelo áspero y con cuernos poco desarrollados.",
+    respuesta:"bisonte"
   },
   {
     id:'C',
-    pregunta:"Nombre de la ganadora del Oscar a la mejor película en 2012.",
-    respuesta:"chicago"
+    pregunta:"Municipio italiano capital de la isla de Cerceña",
+    respuesta:"cagliari"
   },
   {
     id:'D',
-    pregunta:"Resolver, tomar determinación de algo.",
-    respuesta:"decidir"
+    pregunta:"Mezcla explosiva de nitroglicerina con otras sustancias.",
+    respuesta:"dinamita"
   },
   {
     id:'E',
-    pregunta:"Dúo musical de rumba Española nacido en 1999 que vendió más de 1 000 000 copias con su primer disco de nombre homónimo.",
-    respuesta:"estopa"
+    pregunta:"Portero brasileño, titular del Manchester City desde el 2017 hasta la actualidad.",
+    respuesta:"ederson"
   },
   {
     id:'F',
-    pregunta:"Sustancia patrificada de origen orgánico y se encuentra por causas naturales en las capas terrestres.",
-    respuesta:"fosil"
+    pregunta:"Originario del país de filipinas",
+    respuesta:"filipino"
   },
   {
     id:'G',
-    pregunta:"Dicho de un animal, que vive en rebaño o manada.",
-    respuesta:"gregario"
+    pregunta:"Cantidad equivalente a 10 elevado a 100.",
+    respuesta:"gugol"
   },
   {
     id:'H',
-    pregunta:" Aeronave que, a diferencia del avión, se sostiene merced a un rotor de eje oblicuo movido por un motor, lo que le permite elevarse y descender verticalmente.",
-    respuesta:"helicoptero"
+    pregunta:"Espacio arquitectónico público con planta en forma semicircular.",
+    respuesta:"hemiciclo"
   },
   {
     id:'I',
-    pregunta:"Línea que une los lugares de la misma presión atmosférica en un mapa meteorológico en un tiempo determinado",
-    respuesta:"isobara"
+    pregunta:" Dicho de una persona: Que por su dureza y terquedad no quiere enmendarse.",
+    respuesta:"incorregible"
   },
   {
     id:'J',
-    pregunta:"Vestidura que cubría desde los hombros hasta la cintura, ceñida y ajustada al cuerpo.",
-    respuesta:"jubon"
+    pregunta:"Terreno en el que se cultivan plantas y flores ornamentales para hacer de él un lugar agradable.",
+    respuesta:"jardin"
   },
 ]
 
