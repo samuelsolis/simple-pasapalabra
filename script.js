@@ -6,53 +6,53 @@ const TIEMPO_DEL_JUEGO = 180;
 const bd_juego = [
   {
       id:'A',
-      pregunta:"Vuelta o derrame que hace la pared en el corte de una puerta o ventana, dejando al descubierto el grueso del muro.",
-      respuesta:"alfeizar"
+      pregunta:"Hacer ameno algo.",
+      respuesta:"amenizar"
   },
   {
     id:'B',
-    pregunta:"Nadar por debajo del agua",
-    respuesta:"bucear"
+    pregunta:"Ciudad donde, según la tradición cristiana, nació Jesucristo",
+    respuesta:"belen"
   },
   {
     id:'C',
-    pregunta:"Primera persona del plural del pretérito perfecto simple del verbo Caminar.",
-    respuesta:"caminamos"
+    pregunta:"Nombre de la ganadora del Oscar a la mejor película en 2012.",
+    respuesta:"chicago"
   },
   {
     id:'D',
-    pregunta:"Programa que controla los periféricos que se conectan a una computadora.",
-    respuesta:"driver"
+    pregunta:"Resolver, tomar determinación de algo.",
+    respuesta:"decidir"
   },
   {
     id:'E',
-    pregunta:"Nombre del Dios griego del viento",
-    respuesta:"eolo"
+    pregunta:"Dúo musical de rumba Española nacido en 1999 que vendió más de 1 000 000 copias con su primer disco de nombre homónimo.",
+    respuesta:"estopa"
   },
   {
     id:'F',
-    pregunta:"Cada uno de los dos témpanos de la cuba o del tonel.",
-    respuesta:"fondo"
+    pregunta:"Sustancia patrificada de origen orgánico y se encuentra por causas naturales en las capas terrestres.",
+    respuesta:"fosil"
   },
   {
     id:'G',
-    pregunta:"Apellido del director ganador del Oscar a la mejor película extranjera en 1983 por 'Volver a empezar'",
-    respuesta:"garci"
+    pregunta:"Dicho de un animal, que vive en rebaño o manada.",
+    respuesta:"gregario"
   },
   {
     id:'H',
-    pregunta:"Lado opuesto al ángulo recto en un triángulo rectángulo.",
-    respuesta:"hipotenusa"
+    pregunta:" Aeronave que, a diferencia del avión, se sostiene merced a un rotor de eje oblicuo movido por un motor, lo que le permite elevarse y descender verticalmente.",
+    respuesta:"helicoptero"
   },
   {
     id:'I',
-    pregunta:"Que no tiene límite",
-    respuesta:"ilimitado"
+    pregunta:"Línea que une los lugares de la misma presión atmosférica en un mapa meteorológico en un tiempo determinado",
+    respuesta:"isobara"
   },
   {
     id:'J',
-    pregunta:"Entre los cristianos, indulgencia plenaria, solemne y universal, concedida por el Papa en ciertos tiempos y en algunas ocasiones",
-    respuesta:"jubileo"
+    pregunta:"Vestidura que cubría desde los hombros hasta la cintura, ceñida y ajustada al cuerpo.",
+    respuesta:"jubon"
   },
 ]
 
