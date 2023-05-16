@@ -1,58 +1,58 @@
 //total preguntas del juego
 const TOTAL_PREGUNTAS = 10;
 //tiempo del juego
-const TIEMPO_DEL_JUEGO = 60;
+const TIEMPO_DEL_JUEGO = 180;
 //estructura para almacenar las preguntas
 const bd_juego = [
   {
       id:'A',
-      pregunta:"Empresa reconocida que se dedica a los servidores",
-      respuesta:"amazon"
+      pregunta:"Vuelta o derrame que hace la pared en el corte de una puerta o ventana, dejando al descubierto el grueso del muro.",
+      respuesta:"alfeizar"
   },
   {
     id:'B',
-    pregunta:"Término en inglesque hace referencia a una copia de seguridad",
-    respuesta:"backup"
+    pregunta:"Nadar por debajo del agua",
+    respuesta:"bucear"
   },
   {
     id:'C',
-    pregunta:"Nombre de la memoria que almacena temporalmente los datos de la computadora",
-    respuesta:"cache"
+    pregunta:"Primera persona del plural del pretérito perfecto simple del verbo Caminar.",
+    respuesta:"caminamos"
   },
   {
     id:'D',
-    pregunta:"Archivo que controla los periféricos que se conectan a la computadora",
+    pregunta:"Programa que controla los periféricos que se conectan a una computadora.",
     respuesta:"driver"
   },
   {
     id:'E',
-    pregunta:"Mezclar los datos para protegerlos como medida de seguridad, es decir, convertir texto normal a texto cifrado",
-    respuesta:"encriptar"
+    pregunta:"Nombre del Dios griego del viento",
+    respuesta:"eolo"
   },
   {
     id:'F',
-    pregunta:"Famosa red social cread por Mark Zuckerberg",
-    respuesta:"facebook"
+    pregunta:"Cada uno de los dos témpanos de la cuba o del tonel.",
+    respuesta:"fondo"
   },
   {
     id:'G',
-    pregunta:"Lenguaje de programación crado por Google",
-    respuesta:"go"
+    pregunta:"Apellido del director ganador del Oscar a la mejor película extranjera en 1983 por 'Volver a empezar'",
+    respuesta:"garci"
   },
   {
     id:'H',
-    pregunta:"lenguaje utilizado para la estructura a las páginas web",
-    respuesta:"html"
+    pregunta:"Lado opuesto al ángulo recto en un triángulo rectángulo.",
+    respuesta:"hipotenusa"
   },
   {
     id:'I',
-    pregunta:"Aspecto que presentan los programas tras su ejecución mediante el cual ejercemos la comunicación con éstos",
-    respuesta:"interfaz"
+    pregunta:"Que no tiene límite",
+    respuesta:"ilimitado"
   },
   {
     id:'J',
-    pregunta:"Lenguaje de programación con el cual se diseño el sistema operativo Android",
-    respuesta:"java"
+    pregunta:"Entre los cristianos, indulgencia plenaria, solemne y universal, concedida por el Papa en ciertos tiempos y en algunas ocasiones",
+    respuesta:"jubileo"
   },
 ]
 
